@@ -1,0 +1,24 @@
+instances:
+  max_instances: 50
+  prefix: wp_test_
+logging:
+  file: wp_installer.log
+  level: INFO
+mysql:
+  host: localhost
+  password: ''
+  phpmyadmin_url: http://localhost/phpmyadmin
+  port: 3306
+  username: root
+wordpress:
+  admin_email: dananjayahbi@gmail.com
+  admin_password: password
+  admin_user: admin
+  base_url: http://localhost
+  site_title_prefix: WP Test Site
+  zip_path: assets\wordpress-6.8.2.zip
+xampp:
+  htdocs_path: E:/xampp/htdocs
+  mysql_host: localhost
+  mysql_password: ''
+  mysql_user: root

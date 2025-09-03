@@ -1,0 +1,952 @@
+2025-09-02 09:59:28 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:00:08 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:00:09 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 10:04:09 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:04:38 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:07:00 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:08:01 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:08:22 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:09:03 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:10:23 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:11:10 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:11:27 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:11:51 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:12:23 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:12:30 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:12:39 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:12:39 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 10:12:42 - ERROR - ❌ WP-CLI not found. Please install WP-CLI or check the configuration.
+2025-09-02 10:12:42 - DEBUG - Error calculating directory size for E:/xampp/htdocs\my_plugin_test: 'str' object has no attribute 'rglob'
+2025-09-02 10:12:42 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test1: 'str' object has no attribute 'rglob'
+2025-09-02 10:12:43 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test10: 'str' object has no attribute 'rglob'
+2025-09-02 10:12:43 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test2: 'str' object has no attribute 'rglob'
+2025-09-02 10:12:43 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test3: 'str' object has no attribute 'rglob'
+2025-09-02 10:12:52 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:12:52 - ERROR - ❌ Test failed: 'Logger' object has no attribute 'header'
+2025-09-02 10:13:29 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:13:29 - INFO - 
+==================================================
+Testing System Requirements
+==================================================
+2025-09-02 10:13:29 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 10:13:29 - INFO - ✓ MySQL connection successful
+2025-09-02 10:13:29 - INFO - ✓ MySQL: VERSION()
+10.4.32-MariaDB
+2025-09-02 10:13:29 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 10:13:30 - ERROR - ❌ WP-CLI not found. Please install WP-CLI or check the configuration.
+2025-09-02 10:13:30 - ERROR - ❌ WP-CLI test failed: 'wp' is not recognized as an internal or external command,
+operable program or batch file.
+2025-09-02 10:13:30 - ERROR - ❌ WP-CLI: 'wp' is not recognized as an internal or external command,
+operable program or batch file.
+2025-09-02 10:13:30 - INFO - ✓ Htdocs path: E:/xampp/htdocs
+2025-09-02 10:13:30 - INFO - ✓ WordPress zip: assets/wordpress-6.8.2.zip
+2025-09-02 10:13:30 - INFO - 
+==================================================
+Some tests failed. Check configuration.
+==================================================
+2025-09-02 10:13:38 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:13:38 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 10:13:39 - ERROR - ❌ WP-CLI not found. Please install WP-CLI or check the configuration.
+2025-09-02 10:13:39 - DEBUG - Error calculating directory size for E:/xampp/htdocs\my_plugin_test: 'str' object has no attribute 'rglob'
+2025-09-02 10:13:39 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test1: 'str' object has no attribute 'rglob'
+2025-09-02 10:13:39 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test10: 'str' object has no attribute 'rglob'
+2025-09-02 10:13:39 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test2: 'str' object has no attribute 'rglob'
+2025-09-02 10:13:40 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test3: 'str' object has no attribute 'rglob'
+2025-09-02 10:13:40 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test4: 'str' object has no attribute 'rglob'
+2025-09-02 10:13:40 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test5: 'str' object has no attribute 'rglob'
+2025-09-02 10:13:40 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test6: 'str' object has no attribute 'rglob'
+2025-09-02 10:13:41 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test7: 'str' object has no attribute 'rglob'
+2025-09-02 10:13:41 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test8: 'str' object has no attribute 'rglob'
+2025-09-02 10:13:41 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test9: 'str' object has no attribute 'rglob'
+2025-09-02 10:13:41 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test_modular: 'str' object has no attribute 'rglob'
+2025-09-02 10:13:41 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_01: 'str' object has no attribute 'rglob'
+2025-09-02 10:13:42 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_02: 'str' object has no attribute 'rglob'
+2025-09-02 10:13:42 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_03: 'str' object has no attribute 'rglob'
+2025-09-02 10:13:42 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_04: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:17 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:14:18 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 10:14:18 - ERROR - ❌ WP-CLI not found. Please install WP-CLI or check the configuration.
+2025-09-02 10:14:19 - DEBUG - Error calculating directory size for E:/xampp/htdocs\my_plugin_test: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:19 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test1: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:19 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test10: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:19 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test2: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:19 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test3: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:20 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test4: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:20 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test5: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:20 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test6: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:20 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test7: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:20 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test8: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:20 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test9: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:21 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test_modular: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:21 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_01: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:21 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_02: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:21 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_03: 'str' object has no attribute 'rglob'
+2025-09-02 10:14:21 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_04: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:05 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:17:05 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 10:17:06 - ERROR - ❌ WP-CLI not found. Please install WP-CLI or check the configuration.
+2025-09-02 10:17:06 - DEBUG - Error calculating directory size for E:/xampp/htdocs\my_plugin_test: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:06 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test1: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:06 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test10: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:06 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test2: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:06 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test3: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:07 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test4: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:07 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test5: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:07 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test6: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:07 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test7: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:07 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test8: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:07 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test9: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:08 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test_modular: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:08 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_01: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:08 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_02: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:08 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_03: 'str' object has no attribute 'rglob'
+2025-09-02 10:17:08 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_04: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:19 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:23:19 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 10:23:20 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-02 10:23:20 - DEBUG - Error calculating directory size for E:/xampp/htdocs\my_plugin_test: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:20 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test1: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:20 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test10: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:20 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test2: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:20 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test3: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:21 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test4: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:21 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test5: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:21 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test6: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:21 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test7: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:21 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test8: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:21 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test9: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:22 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test_modular: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:22 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_01: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:22 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_02: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:22 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_03: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:22 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_04: 'str' object has no attribute 'rglob'
+2025-09-02 10:23:22 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 10:23:23 - INFO - ✓ MySQL connection successful
+2025-09-02 10:23:23 - INFO - ✓ WP-CLI is working correctly
+2025-09-02 10:23:44 - INFO - 
+==================================================
+Deleting WordPress site: test1
+==================================================
+2025-09-02 10:23:44 - INFO - 🔄 Removing site directory: E:/xampp/htdocs\test1
+2025-09-02 10:24:14 - INFO - ✓ Site directory removed
+2025-09-02 10:24:14 - WARNING - ⚠ Database not found: wp_test1
+2025-09-02 10:24:14 - INFO - ✓ WordPress site 'test1' deleted successfully
+2025-09-02 10:24:16 - DEBUG - Error calculating directory size for E:/xampp/htdocs\my_plugin_test: 'str' object has no attribute 'rglob'
+2025-09-02 10:24:16 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test10: 'str' object has no attribute 'rglob'
+2025-09-02 10:24:17 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test2: 'str' object has no attribute 'rglob'
+2025-09-02 10:24:17 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test3: 'str' object has no attribute 'rglob'
+2025-09-02 10:24:17 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test4: 'str' object has no attribute 'rglob'
+2025-09-02 10:24:17 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test5: 'str' object has no attribute 'rglob'
+2025-09-02 10:24:17 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test6: 'str' object has no attribute 'rglob'
+2025-09-02 10:24:17 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test7: 'str' object has no attribute 'rglob'
+2025-09-02 10:24:18 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test8: 'str' object has no attribute 'rglob'
+2025-09-02 10:24:18 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test9: 'str' object has no attribute 'rglob'
+2025-09-02 10:24:18 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test_modular: 'str' object has no attribute 'rglob'
+2025-09-02 10:24:18 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_01: 'str' object has no attribute 'rglob'
+2025-09-02 10:24:18 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_02: 'str' object has no attribute 'rglob'
+2025-09-02 10:24:19 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_03: 'str' object has no attribute 'rglob'
+2025-09-02 10:24:19 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_04: 'str' object has no attribute 'rglob'
+2025-09-02 10:25:13 - INFO - 
+==================================================
+Creating WordPress site: sample
+==================================================
+2025-09-02 10:25:13 - INFO - 🔄 Creating database: wp_h
+2025-09-02 10:25:13 - INFO - ✓ Database wp_h created successfully
+2025-09-02 10:25:13 - INFO - 🔄 Extracting WordPress to: E:/xampp/htdocs\sample
+2025-09-02 10:25:16 - INFO - ✓ WordPress extracted successfully to E:/xampp/htdocs\sample
+2025-09-02 10:25:16 - INFO - 🔄 Configuring WordPress...
+2025-09-02 10:25:16 - INFO - ✓ wp-config.php created successfully
+2025-09-02 10:25:16 - INFO - 🔄 Installing WordPress...
+2025-09-02 10:25:55 - INFO - ✓ WordPress installed successfully!
+2025-09-02 10:25:55 - INFO - 🔄 Installing theme: twentytwentyfour
+2025-09-02 10:25:59 - INFO - ✓ Theme twentytwentyfour installed and activated
+2025-09-02 10:25:59 - INFO - 
+==================================================
+WordPress Installation Complete!
+==================================================
+2025-09-02 10:25:59 - INFO - ✓ Site URL: http://localhost/sample
+2025-09-02 10:25:59 - INFO - ✓ Admin URL: http://localhost/sample/wp-admin
+2025-09-02 10:25:59 - INFO - ✓ Admin User: admin
+2025-09-02 10:25:59 - INFO - ✓ Admin Password: Indusara2
+2025-09-02 10:25:59 - INFO - ✓ Database: wp_h
+2025-09-02 10:26:10 - DEBUG - Error calculating directory size for E:/xampp/htdocs\my_plugin_test: 'str' object has no attribute 'rglob'
+2025-09-02 10:26:10 - DEBUG - Error calculating directory size for E:/xampp/htdocs\sample: 'str' object has no attribute 'rglob'
+2025-09-02 10:26:10 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test10: 'str' object has no attribute 'rglob'
+2025-09-02 10:26:10 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test2: 'str' object has no attribute 'rglob'
+2025-09-02 10:26:10 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test3: 'str' object has no attribute 'rglob'
+2025-09-02 10:26:11 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test4: 'str' object has no attribute 'rglob'
+2025-09-02 10:26:11 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test5: 'str' object has no attribute 'rglob'
+2025-09-02 10:26:11 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test6: 'str' object has no attribute 'rglob'
+2025-09-02 10:26:11 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test7: 'str' object has no attribute 'rglob'
+2025-09-02 10:26:11 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test8: 'str' object has no attribute 'rglob'
+2025-09-02 10:26:12 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test9: 'str' object has no attribute 'rglob'
+2025-09-02 10:26:12 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test_modular: 'str' object has no attribute 'rglob'
+2025-09-02 10:26:12 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_01: 'str' object has no attribute 'rglob'
+2025-09-02 10:26:12 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_02: 'str' object has no attribute 'rglob'
+2025-09-02 10:26:12 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_03: 'str' object has no attribute 'rglob'
+2025-09-02 10:26:12 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_04: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:00 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 10:36:00 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 10:36:01 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-02 10:36:01 - DEBUG - Error calculating directory size for E:/xampp/htdocs\my_plugin_test: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:01 - DEBUG - Error calculating directory size for E:/xampp/htdocs\sample: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:01 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test10: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:01 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test2: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:01 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test3: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:02 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test4: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:02 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test5: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:02 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test6: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:02 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test7: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:02 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test8: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:03 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test9: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:03 - DEBUG - Error calculating directory size for E:/xampp/htdocs\test_modular: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:03 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_01: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:03 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_02: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:03 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_03: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:03 - DEBUG - Error calculating directory size for E:/xampp/htdocs\wp_test_04: 'str' object has no attribute 'rglob'
+2025-09-02 10:36:04 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 10:36:04 - INFO - ✓ MySQL connection successful
+2025-09-02 10:36:04 - INFO - ✓ WP-CLI is working correctly
+2025-09-02 11:04:59 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 11:05:23 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 11:06:06 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 11:06:07 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 11:06:08 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-02 11:06:08 - INFO - Settings loaded successfully
+2025-09-02 11:06:09 - INFO - Starting WordPress Auto Installer...
+2025-09-02 11:06:09 - INFO - Testing connections...
+2025-09-02 11:06:09 - INFO - WordPress Auto Installer GUI started
+2025-09-02 11:06:09 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 11:06:09 - INFO - ✓ MySQL connection successful
+2025-09-02 11:06:09 - INFO - ✓ WP-CLI is working correctly
+2025-09-02 11:06:09 - INFO - ✓ All systems ready!
+2025-09-02 11:06:10 - INFO - Sites list refreshed
+2025-09-02 11:07:09 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 11:07:11 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 11:07:11 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-02 11:07:11 - INFO - Settings loaded successfully
+2025-09-02 11:07:11 - INFO - Starting WordPress Auto Installer...
+2025-09-02 11:07:11 - INFO - Testing connections...
+2025-09-02 11:07:11 - INFO - WordPress Auto Installer GUI started
+2025-09-02 11:07:11 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 11:07:11 - INFO - ✓ MySQL connection successful
+2025-09-02 11:07:12 - INFO - ✓ WP-CLI is working correctly
+2025-09-02 11:07:12 - INFO - ✓ All systems ready!
+2025-09-02 11:07:13 - INFO - Sites list refreshed
+2025-09-02 11:07:22 - INFO - Installing bulk site 1/3: test-site_1
+2025-09-02 11:07:22 - INFO - ==================================================
+2025-09-02 11:07:22 - INFO - Creating WordPress site: test-site_1
+2025-09-02 11:07:22 - INFO - ==================================================
+2025-09-02 11:07:22 - INFO - 🔄 Creating database: wp_test_site_1
+2025-09-02 11:07:22 - INFO - 🔄 Creating database: wp_test_site_1
+2025-09-02 11:07:22 - INFO - ✓ Database wp_test_site_1 created successfully
+2025-09-02 11:07:22 - INFO - 🔄 Extracting WordPress to: E:\xampp\htdocs\test-site_1
+2025-09-02 11:07:25 - INFO - ✓ WordPress extracted successfully to E:\xampp\htdocs\test-site_1
+2025-09-02 11:07:25 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:07:25 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:07:25 - ERROR - ❌ Error configuring WordPress: string indices must be integers, not 'str'
+2025-09-02 11:07:25 - INFO - Installing bulk site 2/3: test-site_2
+2025-09-02 11:07:25 - INFO - ==================================================
+2025-09-02 11:07:25 - INFO - Creating WordPress site: test-site_2
+2025-09-02 11:07:25 - INFO - ==================================================
+2025-09-02 11:07:25 - INFO - 🔄 Creating database: wp_test_site_2
+2025-09-02 11:07:25 - INFO - 🔄 Creating database: wp_test_site_2
+2025-09-02 11:07:26 - INFO - ✓ Database wp_test_site_2 created successfully
+2025-09-02 11:07:26 - INFO - 🔄 Extracting WordPress to: E:\xampp\htdocs\test-site_2
+2025-09-02 11:07:28 - INFO - ✓ WordPress extracted successfully to E:\xampp\htdocs\test-site_2
+2025-09-02 11:07:28 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:07:28 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:07:28 - ERROR - ❌ Error configuring WordPress: string indices must be integers, not 'str'
+2025-09-02 11:07:28 - INFO - Installing bulk site 3/3: test-site_3
+2025-09-02 11:07:28 - INFO - ==================================================
+2025-09-02 11:07:28 - INFO - Creating WordPress site: test-site_3
+2025-09-02 11:07:28 - INFO - ==================================================
+2025-09-02 11:07:28 - INFO - 🔄 Creating database: wp_test_site_3
+2025-09-02 11:07:28 - INFO - 🔄 Creating database: wp_test_site_3
+2025-09-02 11:07:28 - INFO - ✓ Database wp_test_site_3 created successfully
+2025-09-02 11:07:28 - INFO - 🔄 Extracting WordPress to: E:\xampp\htdocs\test-site_3
+2025-09-02 11:07:31 - INFO - ✓ WordPress extracted successfully to E:\xampp\htdocs\test-site_3
+2025-09-02 11:07:31 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:07:31 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:07:31 - ERROR - ❌ Error configuring WordPress: string indices must be integers, not 'str'
+2025-09-02 11:10:00 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 11:10:01 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 11:10:02 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-02 11:10:02 - INFO - Settings loaded successfully
+2025-09-02 11:10:02 - INFO - Starting WordPress Auto Installer...
+2025-09-02 11:10:02 - INFO - Testing connections...
+2025-09-02 11:10:02 - INFO - WordPress Auto Installer GUI started
+2025-09-02 11:10:02 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 11:10:02 - INFO - ✓ MySQL connection successful
+2025-09-02 11:10:03 - INFO - ✓ WP-CLI is working correctly
+2025-09-02 11:10:03 - INFO - ✓ All systems ready!
+2025-09-02 11:10:04 - INFO - Sites list refreshed
+2025-09-02 11:10:07 - INFO - Installing bulk site 1/3: test-site_1
+2025-09-02 11:10:07 - INFO - ==================================================
+2025-09-02 11:10:07 - INFO - Creating WordPress site: test-site_1_1
+2025-09-02 11:10:07 - INFO - ==================================================
+2025-09-02 11:10:07 - INFO - 🔄 Creating database: wp_test_site_1_1
+2025-09-02 11:10:07 - INFO - 🔄 Creating database: wp_test_site_1_1
+2025-09-02 11:10:08 - INFO - ✓ Database wp_test_site_1_1 created successfully
+2025-09-02 11:10:08 - INFO - 🔄 Extracting WordPress to: E:\xampp\htdocs\test-site_1_1
+2025-09-02 11:10:10 - INFO - ✓ WordPress extracted successfully to E:\xampp\htdocs\test-site_1_1
+2025-09-02 11:10:10 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:10:10 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:10:11 - INFO - ✓ wp-config.php created successfully
+2025-09-02 11:10:11 - INFO - 🔄 Installing WordPress...
+2025-09-02 11:10:11 - ERROR - ❌ Error creating complete site: 'WordPressInstaller' object has no attribute 'install_wordpress_cli'
+2025-09-02 11:10:11 - INFO - Installing bulk site 2/3: test-site_2
+2025-09-02 11:10:11 - INFO - ==================================================
+2025-09-02 11:10:11 - INFO - Creating WordPress site: test-site_2_1
+2025-09-02 11:10:11 - INFO - ==================================================
+2025-09-02 11:10:11 - INFO - 🔄 Creating database: wp_test_site_2_1
+2025-09-02 11:10:11 - INFO - 🔄 Creating database: wp_test_site_2_1
+2025-09-02 11:10:11 - INFO - ✓ Database wp_test_site_2_1 created successfully
+2025-09-02 11:10:11 - INFO - 🔄 Extracting WordPress to: E:\xampp\htdocs\test-site_2_1
+2025-09-02 11:10:14 - INFO - ✓ WordPress extracted successfully to E:\xampp\htdocs\test-site_2_1
+2025-09-02 11:10:14 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:10:14 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:10:14 - INFO - ✓ wp-config.php created successfully
+2025-09-02 11:10:14 - INFO - 🔄 Installing WordPress...
+2025-09-02 11:10:14 - ERROR - ❌ Error creating complete site: 'WordPressInstaller' object has no attribute 'install_wordpress_cli'
+2025-09-02 11:10:14 - INFO - Installing bulk site 3/3: test-site_3
+2025-09-02 11:10:15 - INFO - ==================================================
+2025-09-02 11:10:15 - INFO - Creating WordPress site: test-site_3_1
+2025-09-02 11:10:15 - INFO - ==================================================
+2025-09-02 11:10:15 - INFO - 🔄 Creating database: wp_test_site_3_1
+2025-09-02 11:10:15 - INFO - 🔄 Creating database: wp_test_site_3_1
+2025-09-02 11:10:15 - INFO - ✓ Database wp_test_site_3_1 created successfully
+2025-09-02 11:10:15 - INFO - 🔄 Extracting WordPress to: E:\xampp\htdocs\test-site_3_1
+2025-09-02 11:10:18 - INFO - ✓ WordPress extracted successfully to E:\xampp\htdocs\test-site_3_1
+2025-09-02 11:10:18 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:10:18 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:10:18 - INFO - ✓ wp-config.php created successfully
+2025-09-02 11:10:18 - INFO - 🔄 Installing WordPress...
+2025-09-02 11:10:18 - ERROR - ❌ Error creating complete site: 'WordPressInstaller' object has no attribute 'install_wordpress_cli'
+2025-09-02 11:12:25 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 11:12:27 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 11:12:27 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-02 11:12:27 - INFO - Settings loaded successfully
+2025-09-02 11:12:27 - INFO - Starting WordPress Auto Installer...
+2025-09-02 11:12:27 - INFO - Testing connections...
+2025-09-02 11:12:27 - INFO - WordPress Auto Installer GUI started
+2025-09-02 11:12:27 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 11:12:28 - INFO - ✓ MySQL connection successful
+2025-09-02 11:12:28 - INFO - ✓ WP-CLI is working correctly
+2025-09-02 11:12:28 - INFO - ✓ All systems ready!
+2025-09-02 11:12:30 - INFO - Sites list refreshed
+2025-09-02 11:12:43 - INFO - Deleting site: wp_test_01
+2025-09-02 11:12:43 - INFO - ==================================================
+2025-09-02 11:12:43 - INFO - Deleting WordPress site: wp_test_01
+2025-09-02 11:12:43 - INFO - ==================================================
+2025-09-02 11:12:43 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\wp_test_01
+2025-09-02 11:12:45 - INFO - ✓ Site directory removed
+2025-09-02 11:12:46 - WARNING - ⚠ Database not found: wp_wp_test_01
+2025-09-02 11:12:46 - INFO - ✓ WordPress site 'wp_test_01' deleted successfully
+2025-09-02 11:12:46 - INFO - Deleting site: wp_test_02
+2025-09-02 11:12:46 - INFO - ==================================================
+2025-09-02 11:12:46 - INFO - Deleting WordPress site: wp_test_02
+2025-09-02 11:12:46 - INFO - ==================================================
+2025-09-02 11:12:46 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\wp_test_02
+2025-09-02 11:12:47 - INFO - ✓ Site directory removed
+2025-09-02 11:12:47 - WARNING - ⚠ Database not found: wp_wp_test_02
+2025-09-02 11:12:47 - INFO - ✓ WordPress site 'wp_test_02' deleted successfully
+2025-09-02 11:12:47 - INFO - Deleting site: wp_test_03
+2025-09-02 11:12:47 - INFO - ==================================================
+2025-09-02 11:12:47 - INFO - Deleting WordPress site: wp_test_03
+2025-09-02 11:12:47 - INFO - ==================================================
+2025-09-02 11:12:47 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\wp_test_03
+2025-09-02 11:12:49 - INFO - ✓ Site directory removed
+2025-09-02 11:12:49 - WARNING - ⚠ Database not found: wp_wp_test_03
+2025-09-02 11:12:49 - INFO - ✓ WordPress site 'wp_test_03' deleted successfully
+2025-09-02 11:12:49 - INFO - Deleting site: wp_test_04
+2025-09-02 11:12:49 - INFO - ==================================================
+2025-09-02 11:12:49 - INFO - Deleting WordPress site: wp_test_04
+2025-09-02 11:12:49 - INFO - ==================================================
+2025-09-02 11:12:49 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\wp_test_04
+2025-09-02 11:12:50 - INFO - ✓ Site directory removed
+2025-09-02 11:12:50 - WARNING - ⚠ Database not found: wp_wp_test_04
+2025-09-02 11:12:50 - INFO - ✓ WordPress site 'wp_test_04' deleted successfully
+2025-09-02 11:12:54 - INFO - Sites list refreshed
+2025-09-02 11:13:07 - INFO - Sites list refreshed
+2025-09-02 11:13:51 - INFO - Installing bulk site 1/3: test-site_1
+2025-09-02 11:13:52 - INFO - ==================================================
+2025-09-02 11:13:52 - INFO - Creating WordPress site: test-site_1
+2025-09-02 11:13:52 - INFO - ==================================================
+2025-09-02 11:13:52 - INFO - 🔄 Creating database: wp_test_site_1_2
+2025-09-02 11:13:52 - INFO - 🔄 Creating database: wp_test_site_1_2
+2025-09-02 11:13:52 - INFO - ✓ Database wp_test_site_1_2 created successfully
+2025-09-02 11:13:52 - INFO - 🔄 Extracting WordPress to: E:\xampp\htdocs\test-site_1
+2025-09-02 11:13:54 - INFO - ✓ WordPress extracted successfully to E:\xampp\htdocs\test-site_1
+2025-09-02 11:13:54 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:13:54 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:13:55 - INFO - ✓ wp-config.php created successfully
+2025-09-02 11:13:55 - INFO - 🔄 Installing WordPress...
+2025-09-02 11:13:55 - INFO - 🔄 Installing WordPress...
+2025-09-02 11:14:29 - INFO - ✓ WordPress installed successfully!
+2025-09-02 11:14:29 - INFO - ==================================================
+2025-09-02 11:14:29 - INFO - WordPress Installation Complete!
+2025-09-02 11:14:29 - INFO - ==================================================
+2025-09-02 11:14:29 - INFO - ✓ Site URL: http://localhost/test-site_1
+2025-09-02 11:14:29 - INFO - ✓ Admin URL: http://localhost/test-site_1/wp-admin
+2025-09-02 11:14:29 - INFO - ✓ Admin User: admin
+2025-09-02 11:14:29 - INFO - ✓ Admin Password: Indusara2
+2025-09-02 11:14:29 - INFO - ✓ Database: wp_test_site_1_2
+2025-09-02 11:14:29 - INFO - Installing bulk site 2/3: test-site_2
+2025-09-02 11:14:29 - INFO - ==================================================
+2025-09-02 11:14:29 - INFO - Creating WordPress site: test-site_2
+2025-09-02 11:14:29 - INFO - ==================================================
+2025-09-02 11:14:29 - INFO - 🔄 Creating database: wp_test_site_2_2
+2025-09-02 11:14:29 - INFO - 🔄 Creating database: wp_test_site_2_2
+2025-09-02 11:14:30 - INFO - ✓ Database wp_test_site_2_2 created successfully
+2025-09-02 11:14:30 - INFO - 🔄 Extracting WordPress to: E:\xampp\htdocs\test-site_2
+2025-09-02 11:14:32 - INFO - ✓ WordPress extracted successfully to E:\xampp\htdocs\test-site_2
+2025-09-02 11:14:32 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:14:32 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:14:32 - INFO - ✓ wp-config.php created successfully
+2025-09-02 11:14:32 - INFO - 🔄 Installing WordPress...
+2025-09-02 11:14:32 - INFO - 🔄 Installing WordPress...
+2025-09-02 11:15:02 - INFO - ✓ WordPress installed successfully!
+2025-09-02 11:15:02 - INFO - ==================================================
+2025-09-02 11:15:02 - INFO - WordPress Installation Complete!
+2025-09-02 11:15:02 - INFO - ==================================================
+2025-09-02 11:15:02 - INFO - ✓ Site URL: http://localhost/test-site_2
+2025-09-02 11:15:02 - INFO - ✓ Admin URL: http://localhost/test-site_2/wp-admin
+2025-09-02 11:15:02 - INFO - ✓ Admin User: admin
+2025-09-02 11:15:02 - INFO - ✓ Admin Password: Indusara2
+2025-09-02 11:15:02 - INFO - ✓ Database: wp_test_site_2_2
+2025-09-02 11:15:02 - INFO - Installing bulk site 3/3: test-site_3
+2025-09-02 11:15:03 - INFO - ==================================================
+2025-09-02 11:15:03 - INFO - Creating WordPress site: test-site_3
+2025-09-02 11:15:03 - INFO - ==================================================
+2025-09-02 11:15:03 - INFO - 🔄 Creating database: wp_test_site_3_2
+2025-09-02 11:15:03 - INFO - 🔄 Creating database: wp_test_site_3_2
+2025-09-02 11:15:03 - INFO - ✓ Database wp_test_site_3_2 created successfully
+2025-09-02 11:15:03 - INFO - 🔄 Extracting WordPress to: E:\xampp\htdocs\test-site_3
+2025-09-02 11:15:05 - INFO - ✓ WordPress extracted successfully to E:\xampp\htdocs\test-site_3
+2025-09-02 11:15:05 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:15:05 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:15:05 - INFO - ✓ wp-config.php created successfully
+2025-09-02 11:15:05 - INFO - 🔄 Installing WordPress...
+2025-09-02 11:15:05 - INFO - 🔄 Installing WordPress...
+2025-09-02 11:15:33 - INFO - ✓ WordPress installed successfully!
+2025-09-02 11:15:33 - INFO - ==================================================
+2025-09-02 11:15:33 - INFO - WordPress Installation Complete!
+2025-09-02 11:15:33 - INFO - ==================================================
+2025-09-02 11:15:33 - INFO - ✓ Site URL: http://localhost/test-site_3
+2025-09-02 11:15:33 - INFO - ✓ Admin URL: http://localhost/test-site_3/wp-admin
+2025-09-02 11:15:33 - INFO - ✓ Admin User: admin
+2025-09-02 11:15:33 - INFO - ✓ Admin Password: Indusara2
+2025-09-02 11:15:33 - INFO - ✓ Database: wp_test_site_3_2
+2025-09-02 11:15:34 - INFO - Sites list refreshed
+2025-09-02 11:15:44 - INFO - Sites list refreshed
+2025-09-02 11:18:03 - INFO - Settings loaded successfully
+2025-09-02 11:20:16 - INFO - Deleting site: test-site_1
+2025-09-02 11:20:16 - INFO - ==================================================
+2025-09-02 11:20:16 - INFO - Deleting WordPress site: test-site_1
+2025-09-02 11:20:16 - INFO - ==================================================
+2025-09-02 11:20:16 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\test-site_1
+2025-09-02 11:20:17 - INFO - ✓ Site directory removed
+2025-09-02 11:20:17 - INFO - 🔄 Removing database: wp_test_site_1
+2025-09-02 11:20:18 - INFO - ✓ Database wp_test_site_1 dropped successfully
+2025-09-02 11:20:18 - INFO - ✓ Database removed
+2025-09-02 11:20:18 - INFO - ✓ WordPress site 'test-site_1' deleted successfully
+2025-09-02 11:20:18 - INFO - Deleting site: test-site_2
+2025-09-02 11:20:18 - INFO - ==================================================
+2025-09-02 11:20:18 - INFO - Deleting WordPress site: test-site_2
+2025-09-02 11:20:18 - INFO - ==================================================
+2025-09-02 11:20:18 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\test-site_2
+2025-09-02 11:20:18 - INFO - ✓ Site directory removed
+2025-09-02 11:20:18 - INFO - 🔄 Removing database: wp_test_site_2
+2025-09-02 11:20:18 - INFO - ✓ Database wp_test_site_2 dropped successfully
+2025-09-02 11:20:18 - INFO - ✓ Database removed
+2025-09-02 11:20:18 - INFO - ✓ WordPress site 'test-site_2' deleted successfully
+2025-09-02 11:20:18 - INFO - Deleting site: test-site_3
+2025-09-02 11:20:18 - INFO - ==================================================
+2025-09-02 11:20:18 - INFO - Deleting WordPress site: test-site_3
+2025-09-02 11:20:18 - INFO - ==================================================
+2025-09-02 11:20:18 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\test-site_3
+2025-09-02 11:20:19 - INFO - ✓ Site directory removed
+2025-09-02 11:20:19 - INFO - 🔄 Removing database: wp_test_site_3
+2025-09-02 11:20:19 - INFO - ✓ Database wp_test_site_3 dropped successfully
+2025-09-02 11:20:19 - INFO - ✓ Database removed
+2025-09-02 11:20:19 - INFO - ✓ WordPress site 'test-site_3' deleted successfully
+2025-09-02 11:20:21 - INFO - Sites list refreshed
+2025-09-02 11:23:26 - INFO - Starting installation of 'my-wp-site'...
+2025-09-02 11:23:26 - INFO - ==================================================
+2025-09-02 11:23:26 - INFO - Creating WordPress site: my-wp-site
+2025-09-02 11:23:26 - INFO - ==================================================
+2025-09-02 11:23:26 - INFO - 🔄 Creating database: wp_my_wp_site
+2025-09-02 11:23:26 - INFO - 🔄 Creating database: wp_my_wp_site
+2025-09-02 11:23:27 - INFO - ✓ Database wp_my_wp_site created successfully
+2025-09-02 11:23:27 - INFO - 🔄 Extracting WordPress to: E:\xampp\htdocs\my-wp-site
+2025-09-02 11:23:29 - INFO - ✓ WordPress extracted successfully to E:\xampp\htdocs\my-wp-site
+2025-09-02 11:23:29 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:23:29 - INFO - 🔄 Configuring WordPress...
+2025-09-02 11:23:29 - INFO - ✓ wp-config.php created successfully
+2025-09-02 11:23:29 - INFO - 🔄 Installing WordPress...
+2025-09-02 11:23:29 - INFO - 🔄 Installing WordPress...
+2025-09-02 11:23:56 - INFO - ✓ WordPress installed successfully!
+2025-09-02 11:23:56 - INFO - ==================================================
+2025-09-02 11:23:56 - INFO - WordPress Installation Complete!
+2025-09-02 11:23:56 - INFO - ==================================================
+2025-09-02 11:23:56 - INFO - ✓ Site URL: http://localhost/my-wp-site
+2025-09-02 11:23:56 - INFO - ✓ Admin URL: http://localhost/my-wp-site/wp-admin
+2025-09-02 11:23:56 - INFO - ✓ Admin User: admin
+2025-09-02 11:23:56 - INFO - ✓ Admin Password: Indusara2
+2025-09-02 11:23:56 - INFO - ✓ Database: wp_my_wp_site
+2025-09-02 11:23:58 - INFO - Sites list refreshed
+2025-09-02 11:24:38 - INFO - Deleting site: my-wp-site
+2025-09-02 11:24:38 - INFO - ==================================================
+2025-09-02 11:24:38 - INFO - Deleting WordPress site: my-wp-site
+2025-09-02 11:24:38 - INFO - ==================================================
+2025-09-02 11:24:38 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\my-wp-site
+2025-09-02 11:24:39 - INFO - ✓ Site directory removed
+2025-09-02 11:24:39 - INFO - 🔄 Removing database: wp_my_wp_site
+2025-09-02 11:24:43 - INFO - ✓ Database wp_my_wp_site dropped successfully
+2025-09-02 11:24:43 - INFO - ✓ Database removed
+2025-09-02 11:24:43 - INFO - ✓ WordPress site 'my-wp-site' deleted successfully
+2025-09-02 11:24:44 - INFO - Sites list refreshed
+2025-09-02 11:24:52 - INFO - Deleting site: my_plugin_test
+2025-09-02 11:24:52 - INFO - ==================================================
+2025-09-02 11:24:52 - INFO - Deleting WordPress site: my_plugin_test
+2025-09-02 11:24:52 - INFO - ==================================================
+2025-09-02 11:24:52 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\my_plugin_test
+2025-09-02 11:24:54 - INFO - ✓ Site directory removed
+2025-09-02 11:24:54 - WARNING - ⚠ Database not found: wp_my_plugin_test
+2025-09-02 11:24:54 - INFO - ✓ WordPress site 'my_plugin_test' deleted successfully
+2025-09-02 11:24:55 - INFO - Sites list refreshed
+2025-09-02 11:25:09 - INFO - Deleting site: test10
+2025-09-02 11:25:09 - INFO - ==================================================
+2025-09-02 11:25:09 - INFO - Deleting WordPress site: test10
+2025-09-02 11:25:09 - INFO - ==================================================
+2025-09-02 11:25:09 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\test10
+2025-09-02 11:25:15 - INFO - ✓ Site directory removed
+2025-09-02 11:25:15 - WARNING - ⚠ Database not found: wp_test10
+2025-09-02 11:25:15 - INFO - ✓ WordPress site 'test10' deleted successfully
+2025-09-02 11:25:15 - INFO - Deleting site: test2
+2025-09-02 11:25:15 - INFO - ==================================================
+2025-09-02 11:25:15 - INFO - Deleting WordPress site: test2
+2025-09-02 11:25:15 - INFO - ==================================================
+2025-09-02 11:25:15 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\test2
+2025-09-02 11:25:27 - INFO - ✓ Site directory removed
+2025-09-02 11:25:27 - WARNING - ⚠ Database not found: wp_test2
+2025-09-02 11:25:27 - INFO - ✓ WordPress site 'test2' deleted successfully
+2025-09-02 11:25:27 - INFO - Deleting site: test3
+2025-09-02 11:25:27 - INFO - ==================================================
+2025-09-02 11:25:27 - INFO - Deleting WordPress site: test3
+2025-09-02 11:25:27 - INFO - ==================================================
+2025-09-02 11:25:27 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\test3
+2025-09-02 11:26:09 - INFO - ✓ Site directory removed
+2025-09-02 11:26:09 - WARNING - ⚠ Database not found: wp_test3
+2025-09-02 11:26:09 - INFO - ✓ WordPress site 'test3' deleted successfully
+2025-09-02 11:26:09 - INFO - Deleting site: test4
+2025-09-02 11:26:09 - INFO - ==================================================
+2025-09-02 11:26:09 - INFO - Deleting WordPress site: test4
+2025-09-02 11:26:09 - INFO - ==================================================
+2025-09-02 11:26:09 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\test4
+2025-09-02 11:26:31 - INFO - ✓ Site directory removed
+2025-09-02 11:26:31 - WARNING - ⚠ Database not found: wp_test4
+2025-09-02 11:26:31 - INFO - ✓ WordPress site 'test4' deleted successfully
+2025-09-02 11:26:31 - INFO - Deleting site: test5
+2025-09-02 11:26:31 - INFO - ==================================================
+2025-09-02 11:26:31 - INFO - Deleting WordPress site: test5
+2025-09-02 11:26:31 - INFO - ==================================================
+2025-09-02 11:26:31 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\test5
+2025-09-02 11:26:50 - INFO - ✓ Site directory removed
+2025-09-02 11:26:50 - WARNING - ⚠ Database not found: wp_test5
+2025-09-02 11:26:50 - INFO - ✓ WordPress site 'test5' deleted successfully
+2025-09-02 11:26:50 - INFO - Deleting site: test6
+2025-09-02 11:26:50 - INFO - ==================================================
+2025-09-02 11:26:50 - INFO - Deleting WordPress site: test6
+2025-09-02 11:26:50 - INFO - ==================================================
+2025-09-02 11:26:50 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\test6
+2025-09-02 11:27:05 - INFO - ✓ Site directory removed
+2025-09-02 11:27:05 - WARNING - ⚠ Database not found: wp_test6
+2025-09-02 11:27:05 - INFO - ✓ WordPress site 'test6' deleted successfully
+2025-09-02 11:27:05 - INFO - Deleting site: test7
+2025-09-02 11:27:05 - INFO - ==================================================
+2025-09-02 11:27:05 - INFO - Deleting WordPress site: test7
+2025-09-02 11:27:05 - INFO - ==================================================
+2025-09-02 11:27:05 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\test7
+2025-09-02 11:27:25 - INFO - ✓ Site directory removed
+2025-09-02 11:27:25 - WARNING - ⚠ Database not found: wp_test7
+2025-09-02 11:27:25 - INFO - ✓ WordPress site 'test7' deleted successfully
+2025-09-02 11:27:25 - INFO - Deleting site: test8
+2025-09-02 11:27:25 - INFO - ==================================================
+2025-09-02 11:27:25 - INFO - Deleting WordPress site: test8
+2025-09-02 11:27:25 - INFO - ==================================================
+2025-09-02 11:27:25 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\test8
+2025-09-02 11:27:41 - INFO - ✓ Site directory removed
+2025-09-02 11:27:41 - WARNING - ⚠ Database not found: wp_test8
+2025-09-02 11:27:41 - INFO - ✓ WordPress site 'test8' deleted successfully
+2025-09-02 11:27:41 - INFO - Deleting site: test9
+2025-09-02 11:27:41 - INFO - ==================================================
+2025-09-02 11:27:41 - INFO - Deleting WordPress site: test9
+2025-09-02 11:27:41 - INFO - ==================================================
+2025-09-02 11:27:41 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\test9
+2025-09-02 11:28:03 - INFO - ✓ Site directory removed
+2025-09-02 11:28:03 - WARNING - ⚠ Database not found: wp_test9
+2025-09-02 11:28:03 - INFO - ✓ WordPress site 'test9' deleted successfully
+2025-09-02 11:28:03 - INFO - Sites list refreshed
+2025-09-02 11:28:10 - INFO - Sites list refreshed
+2025-09-02 12:01:07 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 12:01:08 - ERROR - ❌ Failed to setup rounded styles: type object 'StyleBuilderTTK' has no attribute 'create_round_button_style'
+2025-09-02 12:03:06 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 12:03:06 - ERROR - ❌ Failed to setup rounded styles: type object 'StyleBuilderTTK' has no attribute 'create_round_button_style'
+2025-09-02 12:03:37 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 12:03:37 - INFO - Setting up modern UI styles...
+2025-09-02 12:04:49 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 12:04:49 - INFO - Setting up modern UI styles...
+2025-09-02 12:05:12 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 12:05:12 - INFO - Setting up modern UI styles...
+2025-09-02 12:07:01 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 12:07:02 - INFO - Setting up modern UI styles...
+2025-09-02 12:07:03 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 12:07:04 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-02 12:07:04 - INFO - Settings loaded successfully
+2025-09-02 12:07:04 - INFO - Starting WordPress Auto Installer...
+2025-09-02 12:07:04 - INFO - Testing connections...
+2025-09-02 12:07:04 - INFO - WordPress Auto Installer GUI started
+2025-09-02 12:07:04 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 12:07:04 - INFO - ✓ MySQL connection successful
+2025-09-02 12:07:05 - INFO - Sites list refreshed
+2025-09-02 12:07:05 - INFO - ✓ WP-CLI is working correctly
+2025-09-02 12:07:05 - INFO - ✓ All systems ready!
+2025-09-02 12:07:22 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-02 12:07:23 - INFO - Setting up modern UI styles...
+2025-09-02 12:07:23 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 12:07:24 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-02 12:07:24 - INFO - Settings loaded successfully
+2025-09-02 12:07:24 - INFO - Starting WordPress Auto Installer...
+2025-09-02 12:07:24 - INFO - Testing connections...
+2025-09-02 12:07:24 - INFO - WordPress Auto Installer GUI started
+2025-09-02 12:07:24 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-02 12:07:24 - INFO - ✓ MySQL connection successful
+2025-09-02 12:07:24 - INFO - Sites list refreshed
+2025-09-02 12:07:24 - INFO - ✓ WP-CLI is working correctly
+2025-09-02 12:07:24 - INFO - ✓ All systems ready!
+2025-09-02 12:07:44 - INFO - Starting installation of 'my-wp-site'...
+2025-09-02 12:07:44 - INFO - ==================================================
+2025-09-02 12:07:44 - INFO - Creating WordPress site: my-wp-site
+2025-09-02 12:07:44 - INFO - ==================================================
+2025-09-02 12:07:44 - INFO - 🔄 Creating database: wp_my_wp_site
+2025-09-02 12:07:44 - INFO - 🔄 Creating database: wp_my_wp_site
+2025-09-02 12:07:44 - INFO - ✓ Database wp_my_wp_site created successfully
+2025-09-02 12:07:44 - INFO - 🔄 Extracting WordPress to: E:\xampp\htdocs\my-wp-site
+2025-09-02 12:07:47 - INFO - ✓ WordPress extracted successfully to E:\xampp\htdocs\my-wp-site
+2025-09-02 12:07:47 - INFO - 🔄 Configuring WordPress...
+2025-09-02 12:07:47 - INFO - 🔄 Configuring WordPress...
+2025-09-02 12:07:48 - INFO - ✓ wp-config.php created successfully
+2025-09-02 12:07:48 - INFO - 🔄 Installing WordPress...
+2025-09-02 12:07:48 - INFO - 🔄 Installing WordPress...
+2025-09-02 12:08:20 - INFO - ✓ WordPress installed successfully!
+2025-09-02 12:08:20 - INFO - ==================================================
+2025-09-02 12:08:20 - INFO - WordPress Installation Complete!
+2025-09-02 12:08:20 - INFO - ==================================================
+2025-09-02 12:08:20 - INFO - ✓ Site URL: http://localhost/my-wp-site
+2025-09-02 12:08:20 - INFO - ✓ Admin URL: http://localhost/my-wp-site/wp-admin
+2025-09-02 12:08:20 - INFO - ✓ Admin User: admin
+2025-09-02 12:08:20 - INFO - ✓ Admin Password: Indusara2
+2025-09-02 12:08:20 - INFO - ✓ Database: wp_my_wp_site
+2025-09-02 12:08:21 - INFO - Sites list refreshed
+2025-09-02 12:08:26 - INFO - Opening website: http://localhost/my-wp-site
+2025-09-02 12:08:29 - INFO - Opening WP-Admin: http://localhost/my-wp-site/wp-admin
+2025-09-02 12:08:54 - INFO - Resetting site: my-wp-site
+2025-09-02 12:08:54 - INFO - Resetting WordPress site: my-wp-site
+2025-09-02 12:08:54 - INFO - 🔄 Resetting database: wp_my_wp_site
+2025-09-02 12:08:56 - INFO - ✓ Database wp_my_wp_site dropped successfully
+2025-09-02 12:08:56 - INFO - 🔄 Creating database: wp_my_wp_site
+2025-09-02 12:08:56 - INFO - ✓ Database wp_my_wp_site created successfully
+2025-09-02 12:08:56 - INFO - 🔄 Removing existing WordPress files...
+2025-09-02 12:08:58 - INFO - 🔄 Extracting WordPress to: E:\xampp\htdocs\my-wp-site
+2025-09-02 12:09:00 - INFO - ✓ WordPress extracted successfully to E:\xampp\htdocs\my-wp-site
+2025-09-02 12:09:00 - INFO - 🔄 Configuring WordPress...
+2025-09-02 12:09:00 - INFO - ✓ wp-config.php created successfully
+2025-09-02 12:09:00 - INFO - 🔄 Installing WordPress...
+2025-09-02 12:09:30 - INFO - ✓ WordPress installed successfully!
+2025-09-02 12:09:30 - INFO - ✓ WordPress site 'my-wp-site' reset successfully
+2025-09-02 12:09:30 - INFO - ✓ Site my-wp-site reset successfully
+2025-09-02 12:09:31 - INFO - Sites list refreshed
+2025-09-02 12:09:35 - INFO - Sites list refreshed
+2025-09-02 12:09:39 - INFO - Deleting site: my-wp-site
+2025-09-02 12:09:39 - INFO - ==================================================
+2025-09-02 12:09:39 - INFO - Deleting WordPress site: my-wp-site
+2025-09-02 12:09:39 - INFO - ==================================================
+2025-09-02 12:09:39 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\my-wp-site
+2025-09-02 12:09:40 - INFO - ✓ Site directory removed
+2025-09-02 12:09:40 - INFO - 🔄 Removing database: wp_my_wp_site
+2025-09-02 12:09:42 - INFO - ✓ Database wp_my_wp_site dropped successfully
+2025-09-02 12:09:42 - INFO - ✓ Database removed
+2025-09-02 12:09:42 - INFO - ✓ WordPress site 'my-wp-site' deleted successfully
+2025-09-02 12:09:43 - INFO - Sites list refreshed
+2025-09-03 06:49:35 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 06:49:35 - INFO - Setting up modern UI styles...
+2025-09-03 06:49:36 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 06:49:38 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-03 06:49:38 - INFO - Settings loaded successfully
+2025-09-03 06:49:38 - INFO - Starting WordPress Auto Installer...
+2025-09-03 06:49:38 - INFO - Testing connections...
+2025-09-03 06:49:38 - INFO - WordPress Auto Installer GUI started
+2025-09-03 06:49:38 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 06:49:38 - INFO - ✓ MySQL connection successful
+2025-09-03 06:49:39 - INFO - Sites list refreshed
+2025-09-03 06:49:39 - INFO - ✓ WP-CLI is working correctly
+2025-09-03 06:49:39 - INFO - ✓ All systems ready!
+2025-09-03 06:59:12 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 07:04:13 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 07:06:45 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 07:06:46 - INFO - Setting up modern UI styles...
+2025-09-03 07:06:46 - INFO - Validating startup requirements...
+2025-09-03 07:06:46 - INFO - ✓ All startup requirements validated
+2025-09-03 07:06:47 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 07:06:47 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-03 07:06:47 - INFO - Settings loaded successfully
+2025-09-03 07:06:47 - INFO - Starting WordPress Auto Installer...
+2025-09-03 07:06:47 - INFO - Testing connections...
+2025-09-03 07:06:47 - INFO - WordPress Auto Installer GUI started
+2025-09-03 07:06:47 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 07:06:47 - INFO - ✓ MySQL connection successful
+2025-09-03 07:06:48 - INFO - Sites list refreshed
+2025-09-03 07:06:48 - INFO - ✓ WP-CLI is working correctly
+2025-09-03 07:06:48 - INFO - ✓ All systems ready!
+2025-09-03 07:07:04 - ERROR - ❌ Failed to upload WordPress ZIP: 'ConfigManager' object has no attribute 'save'
+2025-09-03 07:12:26 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 07:12:26 - INFO - Setting up modern UI styles...
+2025-09-03 07:12:26 - INFO - Validating startup requirements...
+2025-09-03 07:12:26 - INFO - ✓ All startup requirements validated
+2025-09-03 07:12:27 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 07:12:28 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-03 07:12:28 - INFO - Settings loaded successfully
+2025-09-03 07:12:28 - INFO - Starting WordPress Auto Installer...
+2025-09-03 07:12:28 - INFO - Testing connections...
+2025-09-03 07:12:28 - INFO - WordPress Auto Installer GUI started
+2025-09-03 07:12:28 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 07:12:28 - INFO - ✓ MySQL connection successful
+2025-09-03 07:12:28 - INFO - Sites list refreshed
+2025-09-03 07:12:28 - INFO - ✓ WP-CLI is working correctly
+2025-09-03 07:12:28 - INFO - ✓ All systems ready!
+2025-09-03 07:12:40 - INFO - ✓ Configuration saved to E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 07:12:40 - INFO - ✓ WordPress ZIP file updated: E:\Test_files\wp-bulk\src\assets\wordpress-6.8.2.zip
+2025-09-03 07:26:33 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 07:26:33 - INFO - Setting up modern UI styles...
+2025-09-03 07:26:33 - INFO - Validating startup requirements...
+2025-09-03 07:26:33 - INFO - ✓ All startup requirements validated
+2025-09-03 07:26:34 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 07:26:35 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-03 07:26:35 - INFO - Settings loaded successfully
+2025-09-03 07:26:35 - INFO - Starting WordPress Auto Installer...
+2025-09-03 07:26:35 - INFO - Testing connections...
+2025-09-03 07:26:35 - INFO - WordPress Auto Installer GUI started
+2025-09-03 07:26:35 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 07:26:35 - INFO - ✓ MySQL connection successful
+2025-09-03 07:26:35 - INFO - Sites list refreshed
+2025-09-03 07:26:35 - INFO - ✓ WP-CLI is working correctly
+2025-09-03 07:26:35 - INFO - ✓ All systems ready!
+2025-09-03 07:26:42 - INFO - ✓ Configuration saved to E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 07:26:42 - INFO - ✓ WordPress ZIP file updated: E:\Test_files\wp-bulk\assets\wordpress-6.8.2.zip
+2025-09-03 07:27:28 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 07:27:28 - INFO - Setting up modern UI styles...
+2025-09-03 07:27:28 - INFO - Validating startup requirements...
+2025-09-03 07:27:28 - INFO - ✓ All startup requirements validated
+2025-09-03 07:27:29 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 07:27:30 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-03 07:27:30 - INFO - Settings loaded successfully
+2025-09-03 07:27:30 - INFO - Starting WordPress Auto Installer...
+2025-09-03 07:27:30 - INFO - Testing connections...
+2025-09-03 07:27:30 - INFO - WordPress Auto Installer GUI started
+2025-09-03 07:27:30 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 07:27:30 - INFO - ✓ MySQL connection successful
+2025-09-03 07:27:30 - INFO - Sites list refreshed
+2025-09-03 07:27:30 - INFO - ✓ WP-CLI is working correctly
+2025-09-03 07:27:30 - INFO - ✓ All systems ready!
+2025-09-03 07:27:38 - INFO - ✓ Configuration saved to E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 07:27:38 - INFO - ✓ WordPress ZIP file updated: E:\Test_files\wp-bulk\assets\wordpress-6.8.2.zip
+2025-09-03 07:32:59 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 07:33:00 - INFO - Setting up modern UI styles...
+2025-09-03 07:33:00 - INFO - Validating startup requirements...
+2025-09-03 07:33:00 - INFO - ✓ All startup requirements validated
+2025-09-03 07:33:01 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 07:33:01 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-03 07:33:01 - INFO - Settings loaded successfully
+2025-09-03 07:33:01 - INFO - Starting WordPress Auto Installer...
+2025-09-03 07:33:01 - INFO - Testing connections...
+2025-09-03 07:33:01 - INFO - WordPress Auto Installer GUI started
+2025-09-03 07:33:01 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 07:33:02 - INFO - ✓ MySQL connection successful
+2025-09-03 07:33:02 - INFO - Sites list refreshed
+2025-09-03 07:33:02 - INFO - ✓ WP-CLI is working correctly
+2025-09-03 07:33:02 - INFO - ✓ All systems ready!
+2025-09-03 07:33:10 - INFO - ✓ Configuration saved to E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 07:33:10 - INFO - ✓ WordPress ZIP file updated: E:\Test_files\wp-bulk\assets\wordpress-6.8.2.zip
+2025-09-03 07:33:36 - INFO - Starting installation of 'my-wp-site'...
+2025-09-03 07:33:36 - INFO - ==================================================
+2025-09-03 07:33:36 - INFO - Creating WordPress site: my-wp-site
+2025-09-03 07:33:36 - INFO - ==================================================
+2025-09-03 07:33:36 - INFO - 🔄 Creating database: wp_my_wp_site
+2025-09-03 07:33:36 - INFO - 🔄 Creating database: wp_my_wp_site
+2025-09-03 07:33:37 - INFO - ✓ Database wp_my_wp_site created successfully
+2025-09-03 07:33:37 - INFO - 🔄 Extracting WordPress to: E:\xampp\htdocs\my-wp-site
+2025-09-03 07:33:40 - INFO - ✓ WordPress extracted successfully to E:\xampp\htdocs\my-wp-site
+2025-09-03 07:33:40 - INFO - 🔄 Configuring WordPress...
+2025-09-03 07:33:40 - INFO - 🔄 Configuring WordPress...
+2025-09-03 07:33:41 - INFO - ✓ wp-config.php created successfully
+2025-09-03 07:33:41 - INFO - 🔄 Installing WordPress...
+2025-09-03 07:33:41 - INFO - 🔄 Installing WordPress...
+2025-09-03 07:34:18 - INFO - ✓ WordPress installed successfully!
+2025-09-03 07:34:18 - INFO - ==================================================
+2025-09-03 07:34:18 - INFO - WordPress Installation Complete!
+2025-09-03 07:34:18 - INFO - ==================================================
+2025-09-03 07:34:18 - INFO - ✓ Site URL: http://localhost/my-wp-site
+2025-09-03 07:34:18 - INFO - ✓ Admin URL: http://localhost/my-wp-site/wp-admin
+2025-09-03 07:34:18 - INFO - ✓ Admin User: admin
+2025-09-03 07:34:18 - INFO - ✓ Admin Password: Indusara2
+2025-09-03 07:34:18 - INFO - ✓ Database: wp_my_wp_site
+2025-09-03 07:34:19 - INFO - Sites list refreshed
+2025-09-03 07:38:28 - INFO - Opening website: http://localhost/my-wp-site
+2025-09-03 07:38:40 - INFO - Deleting site: my-wp-site
+2025-09-03 07:38:40 - INFO - ==================================================
+2025-09-03 07:38:40 - INFO - Deleting WordPress site: my-wp-site
+2025-09-03 07:38:40 - INFO - ==================================================
+2025-09-03 07:38:40 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\my-wp-site
+2025-09-03 07:38:41 - INFO - ✓ Site directory removed
+2025-09-03 07:38:41 - INFO - 🔄 Removing database: wp_my_wp_site
+2025-09-03 07:38:43 - INFO - ✓ Database wp_my_wp_site dropped successfully
+2025-09-03 07:38:43 - INFO - ✓ Database removed
+2025-09-03 07:38:43 - INFO - ✓ WordPress site 'my-wp-site' deleted successfully
+2025-09-03 07:38:44 - INFO - Sites list refreshed
+2025-09-03 07:39:38 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 07:39:39 - INFO - Setting up modern UI styles...
+2025-09-03 07:39:39 - INFO - Validating startup requirements...
+2025-09-03 07:39:39 - INFO - ✓ All startup requirements validated
+2025-09-03 07:39:40 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 07:39:40 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-03 07:39:42 - INFO - Settings loaded successfully
+2025-09-03 07:39:42 - INFO - Starting WordPress Auto Installer...
+2025-09-03 07:39:42 - INFO - Testing connections...
+2025-09-03 07:39:42 - INFO - WordPress Auto Installer GUI started
+2025-09-03 07:39:42 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 07:39:42 - INFO - ✓ MySQL connection successful
+2025-09-03 07:39:42 - INFO - Sites list refreshed
+2025-09-03 07:39:42 - INFO - ✓ WP-CLI is working correctly
+2025-09-03 07:39:42 - INFO - ✓ All systems ready!
+2025-09-03 08:57:19 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 08:57:21 - INFO - Setting up modern UI styles...
+2025-09-03 08:57:21 - INFO - Validating startup requirements...
+2025-09-03 08:57:22 - INFO - ✓ All startup requirements validated
+2025-09-03 08:57:34 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 08:57:35 - INFO - Setting up modern UI styles...
+2025-09-03 08:57:35 - INFO - Validating startup requirements...
+2025-09-03 08:57:35 - INFO - ✓ All startup requirements validated
+2025-09-03 08:59:05 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 08:59:06 - INFO - Setting up modern UI styles...
+2025-09-03 08:59:06 - INFO - Validating startup requirements...
+2025-09-03 08:59:06 - INFO - ✓ All startup requirements validated
+2025-09-03 08:59:13 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 08:59:14 - INFO - Setting up modern UI styles...
+2025-09-03 08:59:14 - INFO - Validating startup requirements...
+2025-09-03 08:59:14 - INFO - ✓ All startup requirements validated
+2025-09-03 09:01:13 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 09:01:13 - INFO - Setting up modern UI styles...
+2025-09-03 09:01:13 - INFO - Validating startup requirements...
+2025-09-03 09:01:13 - INFO - ✓ All startup requirements validated
+2025-09-03 09:01:14 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 09:01:18 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-03 09:01:18 - INFO - Settings loaded successfully
+2025-09-03 09:01:18 - INFO - Starting WordPress Auto Installer...
+2025-09-03 09:01:18 - INFO - Testing connections...
+2025-09-03 09:01:18 - INFO - WordPress Auto Installer GUI started
+2025-09-03 09:01:18 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 09:01:18 - INFO - ✓ MySQL connection successful
+2025-09-03 09:01:19 - INFO - ✓ WP-CLI found: WP-CLI 2.12.0
+2025-09-03 09:01:19 - INFO - Sites list refreshed
+2025-09-03 09:01:19 - INFO - ✓ WP-CLI is working correctly
+2025-09-03 09:01:19 - INFO - ✓ All systems ready!
+2025-09-03 09:01:59 - INFO - Starting installation of 'my-wp-site'...
+2025-09-03 09:01:59 - INFO - ==================================================
+2025-09-03 09:01:59 - INFO - Creating WordPress site: my-wp-site
+2025-09-03 09:01:59 - INFO - ==================================================
+2025-09-03 09:01:59 - INFO - 🔄 Creating database: wp_my_wp_site
+2025-09-03 09:01:59 - INFO - 🔄 Creating database: wp_my_wp_site
+2025-09-03 09:01:59 - INFO - ✓ Database wp_my_wp_site created successfully
+2025-09-03 09:01:59 - INFO - 🔄 Extracting WordPress to: E:\xampp\htdocs\my-wp-site
+2025-09-03 09:02:02 - INFO - ✓ WordPress extracted successfully to E:\xampp\htdocs\my-wp-site
+2025-09-03 09:02:02 - INFO - 🔄 Configuring WordPress...
+2025-09-03 09:02:02 - INFO - 🔄 Configuring WordPress...
+2025-09-03 09:02:03 - INFO - ✓ wp-config.php created successfully
+2025-09-03 09:02:03 - INFO - 🔄 Installing WordPress...
+2025-09-03 09:02:03 - INFO - 🔄 Installing WordPress...
+2025-09-03 09:02:37 - INFO - ✓ WordPress installed successfully!
+2025-09-03 09:02:37 - INFO - ==================================================
+2025-09-03 09:02:37 - INFO - WordPress Installation Complete!
+2025-09-03 09:02:37 - INFO - ==================================================
+2025-09-03 09:02:37 - INFO - ✓ Site URL: http://localhost/my-wp-site
+2025-09-03 09:02:37 - INFO - ✓ Admin URL: http://localhost/my-wp-site/wp-admin
+2025-09-03 09:02:37 - INFO - ✓ Admin User: admin
+2025-09-03 09:02:37 - INFO - ✓ Admin Password: Indusara2
+2025-09-03 09:02:37 - INFO - ✓ Database: wp_my_wp_site
+2025-09-03 09:02:38 - INFO - Sites list refreshed
+2025-09-03 09:02:49 - INFO - Opening WP-Admin: http://localhost/my-wp-site/wp-admin
+2025-09-03 09:03:25 - INFO - ✓ Configuration saved to E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 09:03:25 - INFO - Starting WordPress Auto Installer...
+2025-09-03 09:03:25 - INFO - Testing connections...
+2025-09-03 09:03:25 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 09:03:25 - INFO - ✓ MySQL connection successful
+2025-09-03 09:03:25 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 09:03:26 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-03 09:03:26 - INFO - ✓ WP-CLI is working correctly
+2025-09-03 09:03:26 - INFO - ✓ All systems ready!
+2025-09-03 09:03:34 - INFO - Deleting site: my-wp-site
+2025-09-03 09:03:34 - INFO - ==================================================
+2025-09-03 09:03:34 - INFO - Deleting WordPress site: my-wp-site
+2025-09-03 09:03:34 - INFO - ==================================================
+2025-09-03 09:03:34 - INFO - 🔄 Removing site directory: E:\xampp\htdocs\my-wp-site
+2025-09-03 09:03:34 - INFO - ✓ Site directory removed
+2025-09-03 09:03:34 - INFO - 🔄 Removing database: wp_my_wp_site
+2025-09-03 09:03:37 - INFO - ✓ Database wp_my_wp_site dropped successfully
+2025-09-03 09:03:37 - INFO - ✓ Database removed
+2025-09-03 09:03:37 - INFO - ✓ WordPress site 'my-wp-site' deleted successfully
+2025-09-03 09:03:37 - INFO - Sites list refreshed
+2025-09-03 09:03:40 - INFO - Starting installation of 'my-wp-site'...
+2025-09-03 09:03:40 - INFO - ==================================================
+2025-09-03 09:03:40 - INFO - Creating WordPress site: my-wp-site
+2025-09-03 09:03:40 - INFO - ==================================================
+2025-09-03 09:03:40 - INFO - 🔄 Creating database: wp_my_wp_site
+2025-09-03 09:03:40 - INFO - 🔄 Creating database: wp_my_wp_site
+2025-09-03 09:03:40 - INFO - ✓ Database wp_my_wp_site created successfully
+2025-09-03 09:03:40 - INFO - 🔄 Extracting WordPress to: E:\xampp\htdocs\my-wp-site
+2025-09-03 09:03:42 - INFO - ✓ WordPress extracted successfully to E:\xampp\htdocs\my-wp-site
+2025-09-03 09:03:42 - INFO - 🔄 Configuring WordPress...
+2025-09-03 09:03:42 - INFO - 🔄 Configuring WordPress...
+2025-09-03 09:03:43 - INFO - ✓ wp-config.php created successfully
+2025-09-03 09:03:43 - INFO - 🔄 Installing WordPress...
+2025-09-03 09:03:43 - INFO - 🔄 Installing WordPress...
+2025-09-03 09:04:10 - INFO - ✓ WordPress installed successfully!
+2025-09-03 09:04:10 - INFO - ==================================================
+2025-09-03 09:04:10 - INFO - WordPress Installation Complete!
+2025-09-03 09:04:10 - INFO - ==================================================
+2025-09-03 09:04:10 - INFO - ✓ Site URL: http://localhost/my-wp-site
+2025-09-03 09:04:10 - INFO - ✓ Admin URL: http://localhost/my-wp-site/wp-admin
+2025-09-03 09:04:10 - INFO - ✓ Admin User: admin
+2025-09-03 09:04:10 - INFO - ✓ Admin Password: password
+2025-09-03 09:04:10 - INFO - ✓ Database: wp_my_wp_site
+2025-09-03 09:04:10 - INFO - Sites list refreshed
+2025-09-03 09:04:16 - INFO - Opening WP-Admin: http://localhost/my-wp-site/wp-admin
+2025-09-03 09:05:13 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 09:05:14 - INFO - Setting up modern UI styles...
+2025-09-03 09:05:14 - INFO - Validating startup requirements...
+2025-09-03 09:05:14 - INFO - ✓ All startup requirements validated
+2025-09-03 09:05:16 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 09:05:16 - INFO - ✓ WP-CLI found at: C:/wp-cli/wp-cli.phar
+2025-09-03 09:05:16 - INFO - Settings loaded successfully
+2025-09-03 09:05:16 - INFO - Starting WordPress Auto Installer...
+2025-09-03 09:05:16 - INFO - Testing connections...
+2025-09-03 09:05:16 - INFO - WordPress Auto Installer GUI started
+2025-09-03 09:05:16 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-03 09:05:16 - INFO - ✓ MySQL connection successful
+2025-09-03 09:05:17 - INFO - ✓ WP-CLI is working correctly
+2025-09-03 09:05:17 - INFO - ✓ All systems ready!
+2025-09-03 09:05:17 - INFO - ✓ WP-CLI found: WP-CLI 2.12.0
+2025-09-03 09:05:17 - INFO - Sites list refreshed
+2025-09-03 09:10:04 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-03 09:24:11 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
