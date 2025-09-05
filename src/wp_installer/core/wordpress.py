@@ -675,5 +675,169 @@ class WordPressInstaller:
         except Exception as e:
             logger.error(f"Error resetting WordPress site: {e}")
             return False
+    
+    def install_plugin_from_file(self, site_path: str, plugin_file: str) -> bool:
+        """Install a plugin from a zip file"""
+        try:
+            logger.step(f"Installing plugin from file: {os.path.basename(plugin_file)}")
+            
+            original_cwd = os.getcwd()
+            os.chdir(site_path)
+            
+            try:
+                # Install plugin from file
+                cmd = self.wp_cli_command + ['plugin', 'install', plugin_file, '--activate']
+                result = subprocess.run(cmd, capture_output=True, text=True, shell=True)
+                
+                if result.returncode == 0:
+                    logger.success(f"Plugin installed from file: {os.path.basename(plugin_file)}")
+                    return True
+                else:
+                    logger.error(f"Failed to install plugin from file: {result.stderr}")
+                    return False
+                
+            finally:
+                os.chdir(original_cwd)
+            
+        except Exception as e:
+            logger.error(f"Error installing plugin from file: {e}")
+            return False
+    
+    def get_installed_plugins(self, site_path: str) -> List[Dict[str, str]]:
+        """Get list of installed plugins with their status"""
+        try:
+            original_cwd = os.getcwd()
+            os.chdir(site_path)
+            
+            try:
+                # Get plugin list with details
+                cmd = self.wp_cli_command + ['plugin', 'list', '--format=json']
+                result = subprocess.run(cmd, capture_output=True, text=True, shell=True)
+                
+                if result.returncode == 0:
+                    import json
+                    plugins_data = json.loads(result.stdout)
+                    
+                    plugins = []
+                    for plugin in plugins_data:
+                        plugins.append({
+                            'name': plugin.get('name', ''),
+                            'status': plugin.get('status', ''),
+                            'version': plugin.get('version', ''),
+                            'description': plugin.get('description', ''),
+                            'title': plugin.get('title', '')
+                        })
+                    
+                    return plugins
+                else:
+                    logger.error(f"Failed to get plugin list: {result.stderr}")
+                    return []
+                
+            finally:
+                os.chdir(original_cwd)
+            
+        except Exception as e:
+            logger.error(f"Error getting installed plugins: {e}")
+            return []
+    
+    def activate_plugin(self, site_path: str, plugin_name: str) -> bool:
+        """Activate a specific plugin"""
+        try:
+            logger.step(f"Activating plugin: {plugin_name}")
+            
+            original_cwd = os.getcwd()
+            os.chdir(site_path)
+            
+            try:
+                cmd = self.wp_cli_command + ['plugin', 'activate', plugin_name]
+                result = subprocess.run(cmd, capture_output=True, text=True, shell=True)
+                
+                if result.returncode == 0:
+                    logger.success(f"Plugin activated: {plugin_name}")
+                    return True
+                else:
+                    logger.error(f"Failed to activate plugin {plugin_name}: {result.stderr}")
+                    return False
+                
+            finally:
+                os.chdir(original_cwd)
+            
+        except Exception as e:
+            logger.error(f"Error activating plugin {plugin_name}: {e}")
+            return False
+    
+    def deactivate_plugin(self, site_path: str, plugin_name: str) -> bool:
+        """Deactivate a specific plugin"""
+        try:
+            logger.step(f"Deactivating plugin: {plugin_name}")
+            
+            original_cwd = os.getcwd()
+            os.chdir(site_path)
+            
+            try:
+                cmd = self.wp_cli_command + ['plugin', 'deactivate', plugin_name]
+                result = subprocess.run(cmd, capture_output=True, text=True, shell=True)
+                
+                if result.returncode == 0:
+                    logger.success(f"Plugin deactivated: {plugin_name}")
+                    return True
+                else:
+                    logger.error(f"Failed to deactivate plugin {plugin_name}: {result.stderr}")
+                    return False
+                
+            finally:
+                os.chdir(original_cwd)
+            
+        except Exception as e:
+            logger.error(f"Error deactivating plugin {plugin_name}: {e}")
+            return False
+    
+    def delete_plugin(self, site_path: str, plugin_name: str) -> bool:
+        """Delete a specific plugin (deactivate first if active)"""
+        try:
+            logger.step(f"Deleting plugin: {plugin_name}")
+            
+            original_cwd = os.getcwd()
+            os.chdir(site_path)
+            
+            try:
+                # First, check if plugin is active and deactivate if needed
+                cmd = self.wp_cli_command + ['plugin', 'list', '--name=' + plugin_name, '--format=json']
+                result = subprocess.run(cmd, capture_output=True, text=True, shell=True)
+                
+                if result.returncode == 0:
+                    import json
+                    plugin_data = json.loads(result.stdout)
+                    if plugin_data and len(plugin_data) > 0:
+                        if plugin_data[0].get('status') == 'active':
+                            logger.info(f"Plugin {plugin_name} is active, deactivating first...")
+                            # Deactivate inline to maintain directory context
+                            deactivate_cmd = self.wp_cli_command + ['plugin', 'deactivate', plugin_name]
+                            deactivate_result = subprocess.run(deactivate_cmd, capture_output=True, text=True, shell=True)
+                            
+                            if deactivate_result.returncode == 0:
+                                logger.success(f"Plugin deactivated: {plugin_name}")
+                            else:
+                                logger.warning(f"Failed to deactivate plugin {plugin_name}: {deactivate_result.stderr}")
+                                logger.warning("Attempting to delete anyway...")
+                
+                # Delete the plugin (ensure we're still in the correct directory)
+                logger.info(f"Current directory: {os.getcwd()}")
+                cmd = self.wp_cli_command + ['plugin', 'delete', plugin_name]
+                result = subprocess.run(cmd, capture_output=True, text=True, shell=True)
+                
+                if result.returncode == 0:
+                    logger.success(f"Plugin deleted: {plugin_name}")
+                    return True
+                else:
+                    logger.error(f"Failed to delete plugin {plugin_name}: {result.stderr}")
+                    return False
+                
+            finally:
+                os.chdir(original_cwd)
+            
+        except Exception as e:
+            logger.error(f"Error deleting plugin {plugin_name}: {e}")
+            return False
 
 # No global instance - create instances as needed

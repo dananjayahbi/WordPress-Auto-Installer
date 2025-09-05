@@ -950,3 +950,144 @@ WordPress Installation Complete!
 2025-09-03 09:05:17 - INFO - Sites list refreshed
 2025-09-03 09:10:04 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
 2025-09-03 09:24:11 - INFO - ✓ Loaded configuration from E:\Test_files\wp-bulk\config\wp_installer_config.yaml
+2025-09-05 12:35:32 - INFO - ✓ Loaded configuration from E:\My_GitHub_Repos\WordPress-Auto-Installer\config\wp_installer_config.yaml
+2025-09-05 12:35:32 - INFO - Setting up modern UI styles...
+2025-09-05 12:35:32 - INFO - Validating startup requirements...
+2025-09-05 12:35:33 - INFO - ✓ All startup requirements validated
+2025-09-05 12:36:34 - INFO - ✓ Loaded configuration from E:\My_GitHub_Repos\WordPress-Auto-Installer\config\wp_installer_config.yaml
+2025-09-05 12:36:34 - INFO - Setting up modern UI styles...
+2025-09-05 12:36:34 - INFO - Validating startup requirements...
+2025-09-05 12:36:34 - INFO - ✓ All startup requirements validated
+2025-09-05 12:36:39 - INFO - ✓ Loaded configuration from E:\My_GitHub_Repos\WordPress-Auto-Installer\config\wp_installer_config.yaml
+2025-09-05 12:36:39 - INFO - Setting up modern UI styles...
+2025-09-05 12:36:39 - INFO - Validating startup requirements...
+2025-09-05 12:36:40 - INFO - ✓ All startup requirements validated
+2025-09-05 12:37:58 - INFO - ✓ Loaded configuration from E:\My_GitHub_Repos\WordPress-Auto-Installer\config\wp_installer_config.yaml
+2025-09-05 12:37:58 - INFO - Setting up modern UI styles...
+2025-09-05 12:37:58 - INFO - Validating startup requirements...
+2025-09-05 12:37:58 - INFO - ✓ All startup requirements validated
+2025-09-05 12:37:59 - ERROR - ❌ Error refreshing installed plugins: 'ModernMainWindow' object has no attribute 'status_bar'
+2025-09-05 12:38:00 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-05 12:38:01 - INFO - ✓ WP-CLI found at: wp
+2025-09-05 12:38:01 - INFO - Settings loaded successfully
+2025-09-05 12:38:01 - INFO - Starting WordPress Auto Installer...
+2025-09-05 12:38:01 - INFO - Testing connections...
+2025-09-05 12:38:01 - INFO - WordPress Auto Installer GUI started
+2025-09-05 12:38:01 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-05 12:38:01 - INFO - ✓ MySQL connection successful
+2025-09-05 12:38:01 - INFO - ✓ WP-CLI found: WP-CLI 2.12.0
+2025-09-05 12:38:01 - INFO - ✓ WP-CLI is working correctly
+2025-09-05 12:38:01 - INFO - ✓ All systems ready!
+2025-09-05 12:38:02 - INFO - Sites list refreshed
+2025-09-05 12:41:16 - INFO - ✓ Loaded configuration from E:\My_GitHub_Repos\WordPress-Auto-Installer\config\wp_installer_config.yaml
+2025-09-05 12:41:16 - INFO - Setting up modern UI styles...
+2025-09-05 12:41:16 - INFO - Validating startup requirements...
+2025-09-05 12:41:17 - INFO - ✓ All startup requirements validated
+2025-09-05 12:41:18 - INFO - Status: Loading installed plugins...
+2025-09-05 12:41:18 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-05 12:41:18 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-05 12:41:19 - INFO - ✓ WP-CLI found at: wp
+2025-09-05 12:41:19 - INFO - ✓ WP-CLI found at: wp
+2025-09-05 12:41:19 - INFO - Settings loaded successfully
+2025-09-05 12:41:19 - INFO - Starting WordPress Auto Installer...
+2025-09-05 12:41:19 - INFO - Testing connections...
+2025-09-05 12:41:19 - INFO - WordPress Auto Installer GUI started
+2025-09-05 12:41:19 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-05 12:41:19 - INFO - ✓ MySQL connection successful
+2025-09-05 12:41:20 - INFO - ✓ WP-CLI found: WP-CLI 2.12.0
+2025-09-05 12:41:20 - INFO - ✓ WP-CLI is working correctly
+2025-09-05 12:41:20 - INFO - ✓ All systems ready!
+2025-09-05 12:41:21 - INFO - Sites list refreshed
+2025-09-05 12:41:34 - INFO - Status: Loading installed plugins...
+2025-09-05 12:41:38 - INFO - Status: Ready
+2025-09-05 12:41:53 - INFO - Status: Deleting 1 plugins...
+2025-09-05 12:41:53 - INFO - 🔄 Deleting plugin: wp-site-backup
+2025-09-05 12:41:55 - INFO - Status: Ready
+2025-09-05 12:41:56 - INFO - Plugin wp-site-backup is active, deactivating first...
+2025-09-05 12:41:56 - INFO - 🔄 Deactivating plugin: wp-site-backup
+2025-09-05 12:41:57 - INFO - ✓ Plugin deactivated: wp-site-backup
+2025-09-05 12:41:58 - ERROR - ❌ Failed to delete plugin wp-site-backup: Error: This does not seem to be a WordPress installation.
+The used path is: E:/My_GitHub_Repos/WordPress-Auto-Installer/
+Pass --path=`path/to/wordpress` or run `wp core download`.
+
+2025-09-05 12:41:58 - ERROR - ❌ Failed to delete plugin: wp-site-backup
+2025-09-05 12:41:58 - INFO - Status: Loading installed plugins...
+2025-09-05 12:41:59 - INFO - Status: Ready
+2025-09-05 12:42:46 - INFO - ✓ Loaded configuration from E:\My_GitHub_Repos\WordPress-Auto-Installer\config\wp_installer_config.yaml
+2025-09-05 12:42:47 - INFO - Setting up modern UI styles...
+2025-09-05 12:42:47 - INFO - Validating startup requirements...
+2025-09-05 12:42:47 - INFO - ✓ All startup requirements validated
+2025-09-05 12:42:48 - INFO - Status: Loading installed plugins...
+2025-09-05 12:42:48 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-05 12:42:48 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-05 12:42:48 - INFO - ✓ WP-CLI found at: wp
+2025-09-05 12:42:48 - INFO - ✓ WP-CLI found at: wp
+2025-09-05 12:42:48 - INFO - Settings loaded successfully
+2025-09-05 12:42:48 - INFO - Starting WordPress Auto Installer...
+2025-09-05 12:42:48 - INFO - Testing connections...
+2025-09-05 12:42:48 - INFO - WordPress Auto Installer GUI started
+2025-09-05 12:42:48 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-05 12:42:49 - INFO - ✓ MySQL connection successful
+2025-09-05 12:42:49 - INFO - ✓ WP-CLI found: WP-CLI 2.12.0
+2025-09-05 12:42:49 - INFO - ✓ WP-CLI is working correctly
+2025-09-05 12:42:49 - INFO - ✓ All systems ready!
+2025-09-05 12:42:50 - INFO - Sites list refreshed
+2025-09-05 12:42:51 - INFO - Status: Ready
+2025-09-05 12:43:19 - INFO - Status: Loading installed plugins...
+2025-09-05 12:43:21 - INFO - Status: Ready
+2025-09-05 12:43:28 - INFO - Status: Deleting 2 plugins...
+2025-09-05 12:43:28 - INFO - 🔄 Deleting plugin: akismet
+2025-09-05 12:43:31 - INFO - ✓ Plugin deleted: akismet
+2025-09-05 12:43:31 - INFO - ✓ Plugin deleted: akismet
+2025-09-05 12:43:31 - INFO - 🔄 Deleting plugin: hello
+2025-09-05 12:43:33 - INFO - ✓ Plugin deleted: hello
+2025-09-05 12:43:33 - INFO - ✓ Plugin deleted: hello
+2025-09-05 12:43:33 - INFO - Status: Loading installed plugins...
+2025-09-05 12:43:35 - INFO - Status: Ready
+2025-09-05 12:43:42 - INFO - Status: Deleting 1 plugins...
+2025-09-05 12:43:42 - INFO - 🔄 Deleting plugin: wp-site-backup
+2025-09-05 12:43:45 - INFO - ✓ Plugin deleted: wp-site-backup
+2025-09-05 12:43:45 - INFO - ✓ Plugin deleted: wp-site-backup
+2025-09-05 12:43:45 - INFO - Status: Loading installed plugins...
+2025-09-05 12:43:47 - INFO - Status: Ready
+2025-09-05 12:48:09 - INFO - ✓ Loaded configuration from E:\My_GitHub_Repos\WordPress-Auto-Installer\config\wp_installer_config.yaml
+2025-09-05 12:48:10 - INFO - Setting up modern UI styles...
+2025-09-05 12:48:10 - INFO - Validating startup requirements...
+2025-09-05 12:48:11 - INFO - ✓ All startup requirements validated
+2025-09-05 12:48:12 - INFO - Status: Loading installed plugins...
+2025-09-05 12:48:12 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-05 12:48:12 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-05 12:48:12 - INFO - ✓ WP-CLI found at: wp
+2025-09-05 12:48:12 - INFO - Settings loaded successfully
+2025-09-05 12:48:12 - INFO - Starting WordPress Auto Installer...
+2025-09-05 12:48:12 - INFO - Testing connections...
+2025-09-05 12:48:12 - INFO - WordPress Auto Installer GUI started
+2025-09-05 12:48:12 - INFO - ✓ WP-CLI found at: wp
+2025-09-05 12:48:13 - INFO - ✓ MySQL found at: E:/xampp/mysql/bin/mysql.exe
+2025-09-05 12:48:13 - INFO - ✓ MySQL connection successful
+2025-09-05 12:48:13 - INFO - ✓ WP-CLI found: WP-CLI 2.12.0
+2025-09-05 12:48:13 - INFO - ✓ WP-CLI is working correctly
+2025-09-05 12:48:13 - INFO - ✓ All systems ready!
+2025-09-05 12:48:14 - INFO - Sites list refreshed
+2025-09-05 12:48:15 - INFO - Status: Ready
+2025-09-05 12:48:28 - INFO - Status: Loading installed plugins...
+2025-09-05 12:48:30 - INFO - Status: Ready
+2025-09-05 12:48:43 - WARNING - ⚠ No WordPress plugin header found - proceeding anyway
+2025-09-05 12:48:43 - INFO - ✓ Valid plugin file: wp-site-backup.zip
+2025-09-05 12:48:54 - INFO - Status: Installing plugins for test-site_7...
+2025-09-05 12:48:54 - INFO - Installing plugin: wp-site-backup.zip
+2025-09-05 12:48:54 - INFO - 🔄 Installing plugin from file: wp-site-backup.zip
+2025-09-05 12:49:01 - INFO - ✓ Plugin installed from file: wp-site-backup.zip
+2025-09-05 12:49:01 - INFO - ✓ Plugin installed: wp-site-backup.zip
+2025-09-05 12:49:01 - INFO - Status: Loading installed plugins...
+2025-09-05 12:49:01 - INFO - Status: Ready
+2025-09-05 12:49:03 - INFO - Status: Ready
+2025-09-05 12:49:24 - INFO - Status: Deleting 1 plugins...
+2025-09-05 12:49:24 - INFO - 🔄 Deleting plugin: wp-site-backup
+2025-09-05 12:49:26 - INFO - Plugin wp-site-backup is active, deactivating first...
+2025-09-05 12:49:28 - INFO - ✓ Plugin deactivated: wp-site-backup
+2025-09-05 12:49:28 - INFO - Current directory: E:\xampp\htdocs\test-site_7
+2025-09-05 12:49:29 - INFO - ✓ Plugin deleted: wp-site-backup
+2025-09-05 12:49:29 - INFO - ✓ Plugin deleted: wp-site-backup
+2025-09-05 12:49:29 - INFO - Status: Loading installed plugins...
+2025-09-05 12:49:31 - INFO - Status: Ready

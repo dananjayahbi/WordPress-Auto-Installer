@@ -31,6 +31,7 @@ from .components.console_panel import ConsolePanel
 from .components.single_install_tab import SingleInstallTab
 from .components.bulk_install_tab import BulkInstallTab
 from .components.management_tab import ManagementTab
+from .components.plugin_management_tab import PluginManagementTab
 from .components.settings_tab import SettingsTab
 from .components.toast_notifications import ToastManager
 
@@ -282,6 +283,7 @@ Steps to fix:
         self.single_install_tab = SingleInstallTab(self, self.notebook)
         self.bulk_install_tab = BulkInstallTab(self, self.notebook)
         self.management_tab = ManagementTab(self, self.notebook)
+        self.plugin_management_tab = PluginManagementTab(self, self.notebook)
         self.settings_tab = SettingsTab(self, self.notebook)
     
     def create_status_bar(self):

@@ -379,5 +379,140 @@ class Helpers:
         except Exception as e:
             logger.error(f"Failed to install WP-CLI: {e}")
             return False
+    
+    @staticmethod
+    def validate_plugin_file(file_path: str) -> bool:
+        """Validate if a file is a valid WordPress plugin zip"""
+        try:
+            if not file_path.endswith('.zip'):
+                logger.error("Plugin file must be a ZIP archive")
+                return False
+            
+            if not os.path.exists(file_path):
+                logger.error(f"Plugin file not found: {file_path}")
+                return False
+            
+            # Try to open the zip file
+            with zipfile.ZipFile(file_path, 'r') as zip_ref:
+                file_list = zip_ref.namelist()
+                
+                # Check if it contains PHP files (basic plugin check)
+                has_php = any(f.endswith('.php') for f in file_list)
+                if not has_php:
+                    logger.warning("ZIP file doesn't contain PHP files - may not be a WordPress plugin")
+                    return False
+                
+                # Look for plugin header in main PHP files
+                for file_name in file_list:
+                    if file_name.endswith('.php') and not '/' in file_name:  # Main directory PHP files
+                        try:
+                            with zip_ref.open(file_name) as php_file:
+                                content = php_file.read(2048).decode('utf-8', errors='ignore')
+                                if 'Plugin Name:' in content or 'plugin name:' in content.lower():
+                                    logger.success(f"Valid WordPress plugin detected: {file_name}")
+                                    return True
+                        except:
+                            continue
+                
+                logger.warning("No WordPress plugin header found - proceeding anyway")
+                return True  # Allow installation even if header not found
+                
+        except zipfile.BadZipFile:
+            logger.error("Invalid ZIP file")
+            return False
+        except Exception as e:
+            logger.error(f"Error validating plugin file: {e}")
+            return False
+    
+    @staticmethod
+    def get_plugin_info_from_zip(file_path: str) -> dict:
+        """Extract plugin information from ZIP file"""
+        plugin_info = {
+            'name': os.path.basename(file_path).replace('.zip', ''),
+            'version': 'Unknown',
+            'description': 'No description available',
+            'author': 'Unknown',
+            'plugin_uri': '',
+            'valid': False
+        }
+        
+        try:
+            with zipfile.ZipFile(file_path, 'r') as zip_ref:
+                file_list = zip_ref.namelist()
+                
+                # Look for main plugin file
+                for file_name in file_list:
+                    if file_name.endswith('.php') and not '/' in file_name:
+                        try:
+                            with zip_ref.open(file_name) as php_file:
+                                content = php_file.read(4096).decode('utf-8', errors='ignore')
+                                
+                                # Parse plugin header
+                                if 'Plugin Name:' in content or 'plugin name:' in content.lower():
+                                    plugin_info['valid'] = True
+                                    
+                                    # Extract plugin information using regex
+                                    import re
+                                    
+                                    # Plugin Name
+                                    name_match = re.search(r'Plugin Name:\s*(.+)', content, re.IGNORECASE)
+                                    if name_match:
+                                        plugin_info['name'] = name_match.group(1).strip()
+                                    
+                                    # Version
+                                    version_match = re.search(r'Version:\s*(.+)', content, re.IGNORECASE)
+                                    if version_match:
+                                        plugin_info['version'] = version_match.group(1).strip()
+                                    
+                                    # Description
+                                    desc_match = re.search(r'Description:\s*(.+)', content, re.IGNORECASE)
+                                    if desc_match:
+                                        plugin_info['description'] = desc_match.group(1).strip()
+                                    
+                                    # Author
+                                    author_match = re.search(r'Author:\s*(.+)', content, re.IGNORECASE)
+                                    if author_match:
+                                        plugin_info['author'] = author_match.group(1).strip()
+                                    
+                                    # Plugin URI
+                                    uri_match = re.search(r'Plugin URI:\s*(.+)', content, re.IGNORECASE)
+                                    if uri_match:
+                                        plugin_info['plugin_uri'] = uri_match.group(1).strip()
+                                    
+                                    break
+                                    
+                        except Exception as e:
+                            logger.debug(f"Error reading {file_name}: {e}")
+                            continue
+                            
+        except Exception as e:
+            logger.error(f"Error extracting plugin info: {e}")
+        
+        return plugin_info
+    
+    @staticmethod
+    def create_temp_plugin_dir() -> str:
+        """Create a temporary directory for plugin operations"""
+        try:
+            import tempfile
+            temp_dir = tempfile.mkdtemp(prefix='wp_plugin_')
+            logger.debug(f"Created temporary plugin directory: {temp_dir}")
+            return temp_dir
+        except Exception as e:
+            logger.error(f"Error creating temporary directory: {e}")
+            return None
+    
+    @staticmethod
+    def cleanup_temp_dir(temp_dir: str) -> bool:
+        """Clean up temporary directory"""
+        try:
+            if temp_dir and os.path.exists(temp_dir):
+                shutil.rmtree(temp_dir)
+                logger.debug(f"Cleaned up temporary directory: {temp_dir}")
+                return True
+            return False
+        except Exception as e:
+            logger.error(f"Error cleaning up temporary directory: {e}")
+            return False
 
 # No global instance - create instances as needed
